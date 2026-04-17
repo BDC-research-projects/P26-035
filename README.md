@@ -1,7 +1,7 @@
 # P26-035
 Cellranger count and Cellranger aggr on single cell transcriptomic data from  mice samples 
 
-### Packages and verions
+### Packages and versions
 cellranger 7.1.0 
 
 ## cellranger count
