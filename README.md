@@ -1,6 +1,9 @@
 # P26-035
 Cellranger count and Cellranger aggr on single cell transcriptomic data from  mice samples 
 
+Confluence documentation
+https://clinicalgenomics.atlassian.net/wiki/spaces/RP/pages/2336489473/P26-035_GunnarCHansson
+
 ### Packages and versions
 cellranger 7.1.0 
 
